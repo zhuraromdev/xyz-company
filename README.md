@@ -1,6 +1,6 @@
 # XYZ Marketplace Architecture - Part 1
 
-![Marketplace Architecture Diagram](./marketplace-architecture.png)
+![Marketplace Architecture Diagram](./marketplace_archi.png)
 
 ## Architecture Overview
 
