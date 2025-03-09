@@ -1,4 +1,4 @@
-# XYZ Marketplace Architecture
+# XYZ Marketplace Architecture - Part 1
 
 ![Marketplace Architecture Diagram](./marketplace-architecture.png)
 
@@ -69,9 +69,7 @@ Our online marketplace architecture is designed for scalability, reliability, an
 
 This architecture provides the foundation for a scalable marketplace that can handle traffic spikes, maintain data consistency, integrate with third-party systems, and provide robust monitoring capabilities.
 
-# Now after general overview of the system let's dive into Part 1 of the task
-
-# Online Marketplace System Design - Key Requirements and Solutions
+# Now after general overview of the system let's dive into Part 1 of the task: Online Marketplace System Design - Key Requirements and Solutions
 
 ## 1. Scalability & Availability
 
