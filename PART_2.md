@@ -2,7 +2,7 @@
 
 ## 1. Identify Issues
 
-Let's analyze the provided pseudocode for the order creation endpoint to identify potential problems:
+Here are potential problems which I have detected in pseudocode:
 
 ### Data Consistency Issues:
 
